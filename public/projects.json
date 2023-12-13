@@ -1,0 +1,13 @@
+[
+    {
+        "id" : 1, "name" : "Amazon-Clone", "description" : "Its an e-commerce website is one that allows people to buy and sell physical goods,services, and digital products overthe internet.Basically its a clone of Amazon website.", "tech":"HTML,CSS,JAVASCRIPT,REACT,NODE,EXPRESS,MONGODB","image": "/src/assets/amazon.jpeg","github":"https://github.com/ShaikhFazil/Amazon-Clone"
+    },
+    
+    {
+        "id" : 2, "name" : "CAR-Seller", "description" : "A car rental website is an online platform that allows users to rent cars for personal or business use. The website provides an easy-to-use interface for searching, comparing, and reserving cars from a wide selection of vehicles that vary in make, model, size, and price.", "tech":"HTML,CSS,JAVASCRIPT,REACT","image": "/src/assets/car.jpeg","github":"https://github.com/ShaikhFazil/CAR-WEBSITE"
+    },
+    {
+        "id" : 3, "name" : "Tour - Travelling Booking Website", "description" : "A dynamic landing page for travelsite is quite easy an simple to use and understand.Here, you can check the Photo, location etc and canmanagemore activity.","tech":"HTML,CSS,JAVASCRIPT,REACT", "image": "/src/assets/travel.jpeg", "github":"https://github.com/ShaikhFazil/React-Travelling-Website"
+    }
+]
+
